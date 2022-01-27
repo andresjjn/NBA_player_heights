@@ -1,0 +1,25 @@
+{
+  "name": "nba_player_heights",
+  "version": "1.0.0",
+  "description": "This project allow to find the heights of NBA players.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresjjn/NBA_player_heights.git"
+  },
+  "keywords": [
+    "NBA",
+    "heights",
+    "players"
+  ],
+  "author": "andresjjn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresjjn/NBA_player_heights/issues"
+  },
+  "homepage": "https://github.com/andresjjn/NBA_player_heights#readme"
+}
